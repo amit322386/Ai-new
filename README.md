@@ -2,7 +2,7 @@
 
 🚀 A modern web application to solve real-world problems.
 
-![banner](./.github/images/banner.png)
+![banner](./github/images/banner.png.png)
 
 ---
 
@@ -35,7 +35,7 @@ and analytics efficiently with a clean UI and fast performance.
 
 ## 🛠️ Technologies Used
 
-![Tech](https://skillicons.dev/icons?i=html,css,js,react,node,express,mongodb)
+![Tech](https://skillicons.dev/icons?i=html,css,javascript,react,node,express,mongodb)
 
 ---
 
