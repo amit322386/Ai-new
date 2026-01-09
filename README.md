@@ -26,7 +26,7 @@ and analytics efficiently with a clean UI and fast performance.
 ## 📸 Screenshots
 
 ### Desktop View
-![dashbord](./.github/images/dashboard.png)
+![dashbord](./github/images/dashbord.png)
 
 ### Mobile View
 ![ai image generator](./.github/images/ai generate image.png)
